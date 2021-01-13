@@ -1,19 +1,19 @@
 .facebook:hover {
-  color: #3b5998 ;
+  color: #3B5998;
 }
 
 .mail:hover {
-  background: linear-gradient(135deg, #4285f4 20%, #ea4335 70%);
+  background: linear-gradient(135deg, #4285F4 20%, #EA4335 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .instagram:hover {
-  background: linear-gradient(135deg, #515bd4 20%, #f58529 70%);
+  background: linear-gradient(135deg, #515BD4 20%, #F58529 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .twitter:hover {
-  color: #00acee;
+  color: #00ACEE;
 }
